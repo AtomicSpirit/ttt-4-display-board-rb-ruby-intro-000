@@ -65,4 +65,6 @@ puts "-----------"
 puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
+
+end
 display_board(board)
