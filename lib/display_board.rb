@@ -1,8 +1,8 @@
-board = ["X"," "," "," "," "," "," "," "," "]
+board = [" X"," "," "," "," "," "," "," "," "]
 def display_board(board)
-puts "   |   |   "
+puts " [0] |   |   "
 puts "-----------"
-puts "   | X |   "
+puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
 
