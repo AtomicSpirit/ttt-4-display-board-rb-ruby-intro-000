@@ -7,4 +7,4 @@ puts "-----------"
 puts "   |   |   "
 
 end
-display_board(board + [1])
+display_board(board + )
